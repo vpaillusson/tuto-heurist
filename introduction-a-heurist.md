@@ -3,7 +3,7 @@ title: |
    Introduction à Heurist
 authors:
 - Vincent Paillusson
-date: 2021-04-20
+date: 2021-07-20
 reviewers:
 layout: lesson
 ---
